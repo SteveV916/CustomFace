@@ -1,0 +1,33 @@
+{
+    "appKeys": {
+        "KEY_DATA": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "@SteveV916",
+    "longName": "CustomFace",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/download.png",
+                "menuIcon": true,
+                "name": "SCREENCAP",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "CustomFace",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "71480d8c-1b2d-4ae1-a6fc-da2add5269bd",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
