@@ -10,7 +10,7 @@ var xhrRequest = function (url, type, callback) {
  
 function getData(pos) {
   // Construct URL
-  var url = "http://the-vincents.org/pebble";
+  var url = "http://your-textdata-url-here"; //please get your own data, my twitter api has rate limits
  
   // Send request to OpenWeatherMap
   xhrRequest(url, 'GET', 
