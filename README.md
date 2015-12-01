@@ -1,6 +1,8 @@
 # CustomFace
 Pebble watchface which shows custom text/data below the time.
 
+Updates every 30 minutes, from an external URL you may specify.
+
 <img src="https://github.com/SteveV916/CustomFace/blob/master/resources/images/download.png">
 
 To install on your watch:
