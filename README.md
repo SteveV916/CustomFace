@@ -1,5 +1,5 @@
 # CustomFace
-Pebble watchface which shows custom date below the time.
+Pebble watchface which shows custom text/data below the time.
 
 <img src="https://github.com/SteveV916/CustomFace/blob/master/resources/images/download.png">
 
