@@ -1,7 +1,7 @@
 # CustomFace
 Pebble watchface which shows custom text/data below the time.
 
-Updates every 30 minutes, presenting short text from an external URL you may specify.
+Updates every 30 minutes, presenting short text (underneath the time) from an external URL you may specify.
 
 <img src="https://github.com/SteveV916/CustomFace/blob/master/resources/images/download.png">
 
